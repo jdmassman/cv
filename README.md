@@ -23,6 +23,19 @@ Please reach me through my [LinkedIn profile](https://www.linkedin.com/in/john-m
   - Database design for both summary data and patient-specific audit trail.
   - Created a new metric measuring the impact of patient improvement on the overall metrics. Results approved by division manager.
   - Personally responsible for 6 clinical measures, both summary metrics, and the overall report.
+  - "Apples vs oranges" comparison between this project and the next.
+
+* Sr. data scientist on chronic conditions data mart tracking multiple conditions for the department of primary care. (March 2016 to present)
+  - This is a very complex project and leverages a single custom-built data mart with reports for
+    * Primary care providers
+    * Patient outreach
+    * Claims processing and
+    * Senior management
+  - Results presented at Symposium on Data Science and Statistics.
+  - Assist the lead physicians turn health management flow charts into actionable metrics and dashboards. This includes
+    * Custom-built metrics for the current state of care
+    * Alerting on best practices and
+    * Tracking performance
 
 #### Past Projects
 * Project lead on text-analysis project mining clinical notes for submission to a statewide database (SCOAP - Surgical Care and Outcomes Assessment Program)
@@ -39,6 +52,8 @@ Please reach me through my [LinkedIn profile](https://www.linkedin.com/in/john-m
   - Results:
     * Improvements to the urgent case model will be minor at best and require a very large effort due to the high variability inherent in the data.
     * Emergent model was developed but we could not measure performance on real data due to COVID pandemic.
+
+* Lead data scientist on producing forward-looking models for retrospective performance metrics pertaining to cancer patients. The metrics focus on the time up to death and we seek to improve care without knowing the death date in advance.
 
 * Statistician for several peer-reviewed [publications](README.md#publications).
 
