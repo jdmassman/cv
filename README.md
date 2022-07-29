@@ -26,16 +26,8 @@ Please reach me through my [LinkedIn profile](https://www.linkedin.com/in/john-m
   - "Apples vs oranges" comparison between this project and the next.
 
 * Sr. data scientist on chronic conditions data mart tracking multiple conditions for the department of primary care. (March 2016 to present)
-  - This is a very complex project and leverages a single custom-built data mart with reports for
-    * Primary care providers
-    * Patient outreach
-    * Claims processing and
-    * Senior management
-  - Results presented at Symposium on Data Science and Statistics.
-  - Assist the lead physicians turn health management flow charts into actionable metrics and dashboards. This includes
-    * Custom-built metrics for the current state of care
-    * Alerting on best practices and
-    * Tracking performance
+  - This is a very complex project and leverages a single custom-built data mart with reports for primary care providers, patient outreach, claims processing, and senior management. Results presented at Symposium on Data Science and Statistics.
+  - Assist the lead physicians turn health management flow charts into actionable metrics and dashboards. This includes custom-built metrics for the current state of care, alerting on best practices, and tracking performance.
 
 #### Past Projects
 * Project lead on text-analysis project mining clinical notes for submission to a statewide database (SCOAP - Surgical Care and Outcomes Assessment Program)
