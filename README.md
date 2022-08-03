@@ -16,6 +16,8 @@ Please reach me through my [LinkedIn profile](https://www.linkedin.com/in/john-m
   - Model leverages official state and county statistics, statewide projections, and our internal statistics.
   - Wrote several white papers on analytic methods and comparison with county, state and federal statistics.
 
+* Senior developer for cancer outcomes suite (August 2022 to present). Working directly with Divisional VP and VMMC President to create the specifications and development plan. Work across multiple departments to identify and validate data sources. Create boe queries and final reporting tools.
+
 * Technical co-lead on data integration team (June 2022 to present). Tasked with advising leadership on integrating two disparate teams providing different services based on different computer systems and archtectures.
 
 * Technical lead and senior developer for a summary dashboard of 15 health outcomes metrics (January 2022 to present)
@@ -57,6 +59,8 @@ Please reach me through my [LinkedIn profile](https://www.linkedin.com/in/john-m
 
 * Designed and developed an automated tool for tracking multiple metrics related to patient phone calls. Project mined the back-end database, summarized the results, and daily emailed the summaries to appropriate managers.
   - Initially created for one department, the tool was adopted by over a dozen cost centers.
+
+* Created a clinic tool to capture all pertinent data for prostate biopsies and create (a) the nurse's clinic note, (b) the doctor's clinic note, and (c) the research record. This tool eliminated much re-work and significantly increased both speed and accuracy of the entered data.
 
 * Research data manager for Urology and Renal Transplant.
   - Managed all research databases (about a dozen separate projects) using a common tool (REDCap)
