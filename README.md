@@ -5,6 +5,8 @@ Please reach me through my [LinkedIn profile](https://www.linkedin.com/in/john-m
 
 ## Summary
 
+Senior data scientist with 10+ years experience in health care focused on clinical data. My involvement usually begins with discussing a leader's vision and converting this to an actionable specification and development plan. I may need to work across departments creating new data sources. Then I select an appropriate algorithm and we can start building a solution. I frequently lead teams of 2-5 people. Results are frequently distributed to hundreds of employees including VP for the Pacific Northwest division and a hospital president.
+
 ## Experience
 
 ### Senior Clinical Data Scientist, Virginia Mason Franciscan Health, December 2011 to Present
