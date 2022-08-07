@@ -18,7 +18,9 @@ Senior data scientist with 10+ years experience in health care focused on clinic
   - Model leverages official state and county statistics, statewide projections, and our internal statistics.
   - Wrote several white papers on analytic methods and comparison with county, state and federal statistics.
 
-* Senior consultant for cancer outcomes suite (August 2022 to present). Working directly with Divisional VP and VMMC President to manage expectatoins and create both specifications and development plans. Work across multiple departments to identify, create, and validate data sources. Identify technical challenges and coordinate their resolution. Create both queries and final reporting tools.
+* Senior consultant for cancer outcomes suite (August 2022 to present). Working directly with Divisional VP and VMMC President to manage expectatoins and create both specifications and development plans. Work across multiple departments to identify, create, and validate data sources. Identify technical challenges and coordinate their resolution. Create both queries and final reporting tools. Current challenges include
+  - Some data sources are not current
+  - Merging data sources from different vendors running on incompatible networks
 
 * Technical co-lead on data integration team (June 2022 to present). Tasked with advising leadership on integrating two disparate teams providing different services based on different computer systems and archtectures.
 
