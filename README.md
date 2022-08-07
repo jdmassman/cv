@@ -11,14 +11,14 @@ Senior data scientist with 10+ years experience in health care focused on clinic
 
 ### Senior Clinical Data Scientist, Virginia Mason Franciscan Health, December 2011 to Present
 
-#### Current Projects
+#### Current Long-Term Projects
 * Statistical forecaster for COVID hospitalizations (March 2020 to present)
   - I design, create, and maintain a stochastic model forecasting hospital bed usage at Virginia Mason hospital (both ICU and acute-care). Reports updated automatically each day.
   - Results used by C-level executives, members of statewide task force, staffing specialists, surgery leadership, and many others.
   - Model leverages official state and county statistics, statewide projections, and our internal statistics.
   - Wrote several white papers on analytic methods and comparison with county, state and federal statistics.
 
-* Senior developer for cancer outcomes suite (August 2022 to present). Working directly with Divisional VP and VMMC President to create the specifications and development plan. Work across multiple departments to identify and validate data sources. Create boe queries and final reporting tools.
+* Senior consultant for cancer outcomes suite (August 2022 to present). Working directly with Divisional VP and VMMC President to manage expectatoins and create both specifications and development plans. Work across multiple departments to identify, create, and validate data sources. Identify technical challenges and coordinate their resolution. Create both queries and final reporting tools.
 
 * Technical co-lead on data integration team (June 2022 to present). Tasked with advising leadership on integrating two disparate teams providing different services based on different computer systems and archtectures.
 
@@ -37,7 +37,7 @@ Senior data scientist with 10+ years experience in health care focused on clinic
 
 * Senior developer for annual Medicare clinical audit (January 2017 to present). Responsible for all automatic data extraction and upload for this annual audit affecting the contract with our largest payer. Over 6 years, progressive development reduced the required labor from 2 deveopers and 3 nurse abstractors for 3.5 months to 1 developer and 2 abstractors for under 2 months.
 
-#### Past Projects
+#### Selected Past Projects
 * Project lead on text-analysis project mining clinical notes for submission to a statewide database (SCOAP - Surgical Care and Outcomes Assessment Program)
   - Worked with the client to understand their needs, prioritize goals, and manage expectations.
   - Provided extensive advice on all parts of software development including specifications, data selection, algorithm selection, and performance measurement.
@@ -143,3 +143,6 @@ Analyzed analytical processes utilizing computers with responsibilities includin
 
 ## Presentations
 * Massman J, Bristol B, Kamo N, Locke A, Moy N, Ryder T, Tamhankar S, Tufano J, "Multiple Uses for Chronic Conditions Data Mart", Symposium on Data Science and Statistics, May 2019 (E-Poster)
+
+## Other
+* Member of Tomobolo Institute Advisory Board
