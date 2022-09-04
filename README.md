@@ -18,7 +18,7 @@ Senior data scientist with 10+ years experience in health care focused on clinic
   - Model leverages official state and county statistics, statewide projections, and our internal statistics.
   - Wrote several white papers on analytic methods and comparison with county, state and federal statistics.
 
-* Senior consultant for cancer outcomes suite (August 2022 to present). Working directly with Divisional VP and VMMC President to manage expectatoins and create both specifications and development plans. Work across multiple departments to identify, create, and validate data sources. Identify technical challenges and coordinate their resolution. Create both queries and final reporting tools. Current challenges include
+* Senior consultant for cancer outcomes suite (August 2022 to present). Working directly with Divisional VP and VMMC President to manage expectations and create both specifications and development plans. Work across multiple departments to identify, create, and validate data sources. Identify technical challenges and coordinate their resolution. Create both queries and final reporting tools. Current challenges include
   - Some data sources are not current
   - Merging data sources from different vendors running on incompatible networks
 
@@ -44,7 +44,7 @@ Senior data scientist with 10+ years experience in health care focused on clinic
   - Worked with the client to understand their needs, prioritize goals, and manage expectations.
   - Provided extensive advice on all parts of software development including specifications, data selection, algorithm selection, and performance measurement.
   - Results: 
-    * First priority data can be extreacted with a high level of fidelity. 
+    * First priority data can be extracted with a high level of fidelity. 
     * The client reviewed the confusion matrix and determined a certain level of manual chart review would still be necessary.
     * Subsequent review indicated this can only be resolved with a larger training set (not currently available).
 
