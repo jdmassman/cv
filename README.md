@@ -22,7 +22,7 @@ Senior data scientist with 10+ years experience in health care focused on clinic
   - Some data sources are not current
   - Merging data sources from different vendors running on incompatible networks
 
-* Technical co-lead on data integration team (June 2022 to present). Tasked with advising leadership on integrating two disparate teams providing different services based on different computer systems and archtectures.
+* Technical co-lead on data integration team (June 2022 to present). Tasked with advising leadership on integrating two disparate teams providing different services based on different computer systems and architectures.
 
 * Technical lead and senior developer for a summary dashboard of 15 health outcomes metrics (January 2022 to present)
   - Leading a team of 3 developers to provide monthly status reports on 13 health outcomes metrics and two summary metrics.
