@@ -37,7 +37,7 @@ Senior data scientist with 10+ years experience in health care focused on clinic
   - This is a very complex project and leverages a single custom-built data mart with reports for primary care providers, patient outreach, claims processing, and senior management. Results presented at Symposium on Data Science and Statistics.
   - Assist the lead physicians turn health management flow charts into actionable metrics and dashboards. This includes custom-built metrics for the current state of care, alerting on best practices, and tracking performance.
 
-* Senior developer for annual Medicare clinical audit (January 2017 to present). Responsible for all automatic data extraction and upload for this annual audit affecting the contract with our largest payer. Over 6 years, progressive development reduced the required labor from 2 deveopers and 3 nurse abstractors for 3.5 months to 1 developer and 2 abstractors for under 2 months.
+* Senior developer for annual Medicare clinical audit (January 2017 to present). Responsible for all automatic data extraction and upload for this annual audit affecting the contract with our largest payer. Over 6 years, progressive development reduced the required labor from 2 developers and 3 nurse abstractors for 3.5 months to 1 developer and 2 abstractors for under 2 months.
 
 #### Selected Past Projects
 * Project lead on text-analysis project mining clinical notes for submission to a statewide database (SCOAP - Surgical Care and Outcomes Assessment Program)
