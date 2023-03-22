@@ -12,26 +12,21 @@ Senior data scientist with 10+ years experience in health care focused on clinic
 ### Senior Clinical Data Scientist, Virginia Mason Franciscan Health, December 2011 to Present
 
 #### Current Long-Term Projects
-* Statistical forecaster for COVID hospitalizations (March 2020 to present)
-  - I design, create, and maintain a stochastic model forecasting hospital bed usage at Virginia Mason hospital (both ICU and acute-care). Reports updated automatically each day.
-  - Results used by C-level executives, members of statewide task force, staffing specialists, surgery leadership, and many others.
-  - Model leverages official state and county statistics, statewide projections, and our internal statistics.
-  - Wrote several white papers on analytic methods and comparison with county, state and federal statistics.
+* Technical lead and senior developer for a summary dashboard of 15 health outcomes metrics (January 2022 to present)
+  - Co-project manager specifying deliverables and milestones.
+  - Leading a team of 3-5 developers to provide monthly status reports on 13 health outcomes metrics and two summary metrics. Data sources spread across multiple incompatible systems requiring different access methods.
+  - Converting HEDIS specifications to actionable data requirements.
+  - Results provided to providers, clinic managers, hospital leadership, division leadership.
+  - Database design for both summary data and patient-specific audit trail.
+  - Created a new metric measuring the impact of patient improvement on the overall metrics. Results approved by division manager.
+  - Personally responsible for 6 clinical measures, both summary metrics, and the overall report.
+  - "Apples vs oranges" comparison between this project and the next.
 
 * Senior consultant for cancer outcomes suite (August 2022 to present). Working directly with Divisional VP and VMMC President to manage expectations and create both specifications and development plans. Work across multiple departments to identify, create, and validate data sources. Identify technical challenges and coordinate their resolution. Create both queries and final reporting tools. Current challenges include
   - Some data sources are not current
   - Merging data sources from different vendors running on incompatible networks
 
 * Technical co-lead on data integration team (June 2022 to present). Tasked with advising leadership on integrating two disparate teams providing different services based on different computer systems and architectures.
-
-* Technical lead and senior developer for a summary dashboard of 15 health outcomes metrics (January 2022 to present)
-  - Leading a team of 3 developers to provide monthly status reports on 13 health outcomes metrics and two summary metrics.
-  - Results provided to providers, clinic managers, hospital leadership, division leadership.
-  - Converted HEDIS specifications to actionable data requirements.
-  - Database design for both summary data and patient-specific audit trail.
-  - Created a new metric measuring the impact of patient improvement on the overall metrics. Results approved by division manager.
-  - Personally responsible for 6 clinical measures, both summary metrics, and the overall report.
-  - "Apples vs oranges" comparison between this project and the next.
 
 * Senior data scientist on chronic conditions data mart tracking multiple conditions for the department of primary care. (March 2016 to present)
   - This is a very complex project and leverages a single custom-built data mart with reports for primary care providers, patient outreach, claims processing, and senior management. Results presented at Symposium on Data Science and Statistics.
@@ -40,6 +35,12 @@ Senior data scientist with 10+ years experience in health care focused on clinic
 * Senior developer for annual Medicare clinical audit (January 2017 to present). Responsible for all automatic data extraction and upload for this annual audit affecting the contract with our largest payer. Over 6 years, progressive development reduced the required labor from 2 developers and 3 nurse abstractors for 3.5 months to 1 developer and 2 abstractors for under 2 months.
 
 #### Selected Past Projects
+* Statistical forecaster for COVID hospitalizations (March 2020 to December 2022)
+  - I design, create, and maintain a stochastic model forecasting hospital bed usage at Virginia Mason hospital (both ICU and acute-care). Reports updated automatically each day.
+  - Results used by C-level executives, members of statewide task force, staffing specialists, surgery leadership, and many others.
+  - Model leverages official state and county statistics, statewide projections, and our internal statistics.
+  - Wrote several white papers on analytic methods and comparison with county, state and federal statistics.
+
 * Project lead on text-analysis project mining clinical notes for submission to a statewide database (SCOAP - Surgical Care and Outcomes Assessment Program)
   - Worked with the client to understand their needs, prioritize goals, and manage expectations.
   - Provided extensive advice on all parts of software development including specifications, data selection, algorithm selection, and performance measurement.
